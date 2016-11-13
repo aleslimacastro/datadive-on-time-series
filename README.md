@@ -1,4 +1,4 @@
-# datadive-on-time-series
+# Contribution to the Münster Datadive On Time Series Competition
 
 ## About the repository content
 This is the jupyter notebook code that we used to place 4th in the DataScience Münster Meetup DataDive Hackathon in 10/2016.
